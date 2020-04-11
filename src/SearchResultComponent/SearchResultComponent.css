@@ -1,0 +1,44 @@
+.main{
+    display: flex;
+
+    max-width: 100%;
+
+    flex-wrap: wrap;
+
+    flex-direction: row;
+}
+.container{
+    width: max-content;
+
+    height: auto;
+
+    border-radius: 4px;
+
+    box-shadow: 0 2px 4px 0 rgba(216, 216, 216, 0.5);
+
+    border: solid 1px #e3e3e3;
+
+    background-color: #ffffff;
+    padding: 10px;
+    padding: 10px;
+margin: 20px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+
+}
+.Label div{
+    padding: 5px;
+    /*max-width: 200px;*/
+}
+.value div{
+    padding: 5px;
+    /*max-width: 200px;*/
+
+
+}
+/*@media only screen and (max-width: 720px) {*/
+/*    body {*/
+/*        background-color: lightblue;*/
+/*    }*/
+/*}*/
